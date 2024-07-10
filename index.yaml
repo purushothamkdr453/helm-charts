@@ -3,9 +3,9 @@ entries:
   testhelmchart:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-07-10T22:20:10.128813446+05:30"
+    created: "2024-07-10T22:26:11.145416763+05:30"
     description: A Helm chart for Kubernetes
-    digest: 8ec767e4ff5d931e24f261e5fc9f3fc4c5abfb930235a91c16a8c50e33fb17de
+    digest: 8308e4d638881ae16acc01c549fe42e6c5a644e6fa754506e58226132f0048f9
     name: testhelmchart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-10T22:20:10.128584345+05:30"
+    created: "2024-07-10T22:26:11.145191303+05:30"
     description: A Helm chart for Kubernetes
     digest: cb14a8ba28436d2f332abee43b8b17e04418e15b32191399e82da9b79d67c013
     name: testhelmchart
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://github.com/purushothamkdr453/helm-charts/testhelmchart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-07-10T22:20:10.128199415+05:30"
+generated: "2024-07-10T22:26:11.144751977+05:30"
